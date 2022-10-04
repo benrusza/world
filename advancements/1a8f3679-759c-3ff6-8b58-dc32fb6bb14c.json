@@ -209,11 +209,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2022-10-04 22:30:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_bonemeal": "2022-09-24 16:00:44 +0200"
     },
     "done": true
+  },
+  "atum:core/unundead": {
+    "criteria": {
+      "wraith": "2022-10-04 22:24:31 +0200",
+      "mummy": "2022-10-04 22:22:20 +0200",
+      "forsaken": "2022-10-04 22:22:34 +0200"
+    },
+    "done": false
   },
   "dungeontactics:recipes/misc/convenience/string_from_wool": {
     "criteria": {
@@ -438,6 +452,14 @@
     },
     "done": true
   },
+  "atum:core/lawbringer": {
+    "criteria": {
+      "barbarian": "2022-10-04 22:31:09 +0200",
+      "brigand": "2022-10-04 22:28:39 +0200",
+      "nomad": "2022-10-04 22:28:25 +0200"
+    },
+    "done": false
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2022-09-25 00:50:25 +0200"
@@ -637,6 +659,12 @@
     },
     "done": true
   },
+  "atum:core/killorbekilled": {
+    "criteria": {
+      "mummy": "2022-10-04 22:22:20 +0200"
+    },
+    "done": true
+  },
   "mysticalworld:aubergine": {
     "criteria": {
       "book": "2022-09-24 16:00:21 +0200"
@@ -664,6 +692,12 @@
   "twilightforest:alt/treasures/magic_trees": {
     "criteria": {
       "2": "2022-10-02 22:44:38 +0200"
+    },
+    "done": true
+  },
+  "atum:core/ruinedit": {
+    "criteria": {
+      "in_ruin": "2022-10-04 22:25:28 +0200"
     },
     "done": true
   },
@@ -841,6 +875,12 @@
     },
     "done": true
   },
+  "atum:core/journeyintothesands": {
+    "criteria": {
+      "entered_atum": "2022-10-04 22:21:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2022-09-24 15:44:32 +0200"
@@ -967,6 +1007,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-10-04 22:46:29 +0200"
+    },
+    "done": true
+  },
   "ebwizardry:spell_failure": {
     "criteria": {
       "criteria_0": "2022-10-03 22:33:45 +0200"
@@ -1063,6 +1109,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2022-09-24 23:55:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2022-10-04 22:46:29 +0200"
     },
     "done": true
   },
@@ -1333,6 +1385,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2022-09-25 23:19:30 +0200"
+    },
+    "done": true
+  },
+  "atum:core/expectedresult": {
+    "criteria": {
+      "forsaken": "2022-10-04 22:25:09 +0200"
     },
     "done": true
   },
@@ -1941,6 +1999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2022-10-04 22:46:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2022-09-25 14:28:47 +0200"
@@ -1998,6 +2062,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2022-09-24 23:46:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2022-10-04 22:46:29 +0200"
     },
     "done": true
   },
@@ -2245,6 +2315,14 @@
     },
     "done": true
   },
+  "atum:core/ajourney": {
+    "criteria": {
+      "dried_river": "2022-10-04 22:23:40 +0200",
+      "deadwood_forest": "2022-10-04 22:21:48 +0200",
+      "sand_plains": "2022-10-04 22:23:58 +0200"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2022-09-25 15:12:55 +0200"
@@ -2416,6 +2494,12 @@
   "dungeontactics:recipes/weapons/iron_weapons": {
     "criteria": {
       "has_item": "2022-09-24 23:38:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2022-10-04 22:46:29 +0200"
     },
     "done": true
   },
