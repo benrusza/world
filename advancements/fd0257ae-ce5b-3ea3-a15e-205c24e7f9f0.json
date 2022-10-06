@@ -2545,6 +2545,7 @@
   },
   "atum:core/agriculture": {
     "criteria": {
+      "emmer": "2022-10-06 20:46:49 +0200",
       "melon_stem": "2022-09-24 15:23:09 +0200"
     },
     "done": false
@@ -2696,6 +2697,7 @@
   },
   "atum:core/ajourney": {
     "criteria": {
+      "sand_dunes": "2022-10-06 20:37:53 +0200",
       "dried_river": "2022-10-04 22:23:43 +0200",
       "deadwood_forest": "2022-10-04 22:21:49 +0200",
       "sand_plains": "2022-10-04 22:23:57 +0200"
