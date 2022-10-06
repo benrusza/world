@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2022-10-06 23:00:24 +0200"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/convenience/sticks_from_cactus": {
     "criteria": {
       "has_stick": "2022-09-24 15:45:03 +0200"
@@ -92,6 +98,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2022-09-25 01:09:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-10-06 23:00:24 +0200"
     },
     "done": true
   },
@@ -1007,6 +1019,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
+    "criteria": {
+      "has_planks": "2022-10-06 23:00:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2022-10-04 22:46:29 +0200"
@@ -1028,6 +1046,7 @@
   "dungeontactics:dungeoneering/born_survivor": {
     "criteria": {
       "stab": "2022-09-24 15:05:39 +0200",
+      "ration": "2022-10-06 23:10:17 +0200",
       "cherrybomb": "2022-09-24 15:24:32 +0200",
       "heart": "2022-09-25 21:39:53 +0200"
     },
@@ -1927,6 +1946,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2022-10-06 23:00:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2022-09-24 23:46:04 +0200"
@@ -1990,6 +2015,12 @@
   "aether_legacy:recipes/combat/diamond_gloves": {
     "criteria": {
       "has_diamond": "2022-09-24 23:46:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2022-10-06 23:00:24 +0200"
     },
     "done": true
   },

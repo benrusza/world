@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "spartanweaponry:throwing_knife": {
+    "criteria": {
+      "craft": "2022-10-07 00:12:31 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2022-09-23 00:15:41 +0200"
@@ -411,6 +417,18 @@
     },
     "done": true
   },
+  "spartanweaponry:longsword": {
+    "criteria": {
+      "craft": "2022-10-07 00:12:06 +0200"
+    },
+    "done": true
+  },
+  "atum:core/powerwasher": {
+    "criteria": {
+      "emerald_idol": "2022-10-06 23:18:15 +0200"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2022-09-25 17:19:15 +0200"
@@ -492,6 +510,12 @@
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_reeds": "2022-09-23 23:48:59 +0200"
+    },
+    "done": true
+  },
+  "spartanweaponry:root": {
+    "criteria": {
+      "handle_in_inventory": "2022-10-07 00:11:45 +0200"
     },
     "done": true
   },
@@ -680,6 +704,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2022-10-06 22:47:54 +0200",
+      "stray": "2022-10-06 22:27:55 +0200",
       "wither_skeleton": "2022-10-02 23:07:58 +0200",
       "zombie_villager": "2022-09-25 22:15:05 +0200",
       "skeleton": "2022-09-23 00:35:32 +0200",
@@ -698,6 +724,12 @@
   "dungeontactics:recipes/armour/silver_armour": {
     "criteria": {
       "has_item": "2022-10-02 20:57:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2022-10-06 22:35:51 +0200"
     },
     "done": true
   },
@@ -1128,6 +1160,12 @@
     },
     "done": true
   },
+  "ebwizardry:defeat_evil_wizard": {
+    "criteria": {
+      "criteria_0": "2022-10-06 21:54:12 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2022-09-25 14:31:08 +0200"
@@ -1285,6 +1323,12 @@
   "minecraft:recipes/decorations/green_carpet": {
     "criteria": {
       "has_green_wool": "2022-10-02 15:44:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2022-10-06 22:35:51 +0200"
     },
     "done": true
   },
@@ -1553,6 +1597,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2022-10-06 22:35:51 +0200"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/weapons/diamond_weapons": {
     "criteria": {
       "has_item": "2022-09-23 19:35:44 +0200"
@@ -1622,6 +1672,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2022-09-25 22:17:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2022-10-06 23:03:02 +0200"
     },
     "done": true
   },
@@ -2316,6 +2372,12 @@
     },
     "done": true
   },
+  "spartanweaponry:rapier": {
+    "criteria": {
+      "craft": "2022-10-07 00:13:10 +0200"
+    },
+    "done": true
+  },
   "improvedbackpacks:main/root": {
     "criteria": {
       "crafting_table": "2022-09-23 23:23:19 +0200"
@@ -2629,6 +2691,12 @@
     },
     "done": true
   },
+  "spartanweaponry:saber": {
+    "criteria": {
+      "craft": "2022-10-07 00:12:23 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2022-09-23 00:35:50 +0200"
@@ -2875,6 +2943,12 @@
   "minecraft:recipes/decorations/cyan_bed": {
     "criteria": {
       "has_cyan_wool": "2022-09-25 12:30:53 +0200"
+    },
+    "done": true
+  },
+  "atum:core/justlikenew": {
+    "criteria": {
+      "emerald_idol": "2022-10-06 23:18:15 +0200"
     },
     "done": true
   },

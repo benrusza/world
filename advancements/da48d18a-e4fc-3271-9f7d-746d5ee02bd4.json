@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "erebus:exploration/entomology": {
+    "criteria": {
+      "kill_black_widow": "2022-10-06 22:58:14 +0200"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/red_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2022-09-26 22:53:41 +0200"
@@ -80,6 +86,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-09-25 00:02:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2022-10-06 23:01:03 +0200"
     },
     "done": true
   },
@@ -239,11 +251,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2022-10-06 23:08:50 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2022-09-24 16:20:37 +0200"
     },
     "done": true
+  },
+  "erebus:exploration/kill_all": {
+    "criteria": {
+      "kill_black_widow": "2022-10-06 22:58:14 +0200"
+    },
+    "done": false
   },
   "atum:core/unundead": {
     "criteria": {
@@ -368,6 +392,14 @@
       "has_gravel": "2022-09-25 00:02:15 +0200"
     },
     "done": true
+  },
+  "atum:core/powerwasher": {
+    "criteria": {
+      "sapphire_ring": "2022-10-06 23:45:59 +0200",
+      "gold_necklace": "2022-10-06 23:46:02 +0200",
+      "silver_ring": "2022-10-06 23:45:58 +0200"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
@@ -611,9 +643,11 @@
       "zombie_pigman": "2022-09-24 16:25:12 +0200",
       "wither_skeleton": "2022-09-25 00:04:40 +0200",
       "zombie_villager": "2022-09-26 23:08:27 +0200",
+      "magma_cube": "2022-10-06 23:18:30 +0200",
       "vindicator": "2022-09-23 22:39:40 +0200",
       "skeleton": "2022-09-23 23:11:39 +0200",
       "husk": "2022-09-25 14:59:32 +0200",
+      "blaze": "2022-10-06 23:06:54 +0200",
       "evoker": "2022-10-03 22:31:13 +0200",
       "silverfish": "2022-09-23 22:31:09 +0200",
       "zombie": "2022-09-23 23:11:45 +0200",
@@ -628,6 +662,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2022-09-25 15:35:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2022-10-06 23:42:19 +0200"
     },
     "done": true
   },
@@ -772,6 +812,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2022-10-03 23:42:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2022-10-06 23:06:57 +0200"
     },
     "done": true
   },
@@ -1085,6 +1131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2022-10-06 23:40:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-09-25 00:02:15 +0200"
@@ -1298,6 +1350,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2022-10-06 23:42:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon_block": {
     "criteria": {
       "has_melon": "2022-09-25 00:49:45 +0200"
@@ -1446,6 +1504,12 @@
   "aether_legacy:recipes/building_blocks/skyroot_bookshelf": {
     "criteria": {
       "has_book": "2022-09-23 22:06:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-10-06 22:53:05 +0200"
     },
     "done": true
   },
@@ -1608,6 +1672,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2022-09-23 22:57:36 +0200"
+    },
+    "done": true
+  },
+  "erebus:exploration/poison_sac": {
+    "criteria": {
+      "sac_get": "2022-10-06 22:58:22 +0200"
     },
     "done": true
   },
@@ -1898,6 +1968,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2022-10-06 23:40:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2022-09-23 21:54:50 +0200"
@@ -1984,6 +2060,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2022-10-06 23:40:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2022-09-24 15:32:31 +0200"
@@ -2026,9 +2108,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2022-10-06 23:34:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-10-06 22:53:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2022-09-23 23:19:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2022-10-06 23:34:05 +0200"
     },
     "done": true
   },
@@ -2212,6 +2312,7 @@
       "freeze": "2022-10-02 00:44:19 +0200",
       "snowball": "2022-09-23 22:39:53 +0200",
       "muffle": "2022-09-25 15:15:28 +0200",
+      "mine": "2022-10-06 23:32:56 +0200",
       "ignite": "2022-10-02 00:43:59 +0200",
       "snare": "2022-09-26 23:39:42 +0200",
       "magic_missile": "2022-09-26 23:39:25 +0200",
@@ -2248,6 +2349,12 @@
   "colossalchests:root": {
     "criteria": {
       "criteria_0": "2022-09-23 22:47:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-10-06 23:04:59 +0200"
     },
     "done": true
   },
@@ -2412,6 +2519,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2022-10-06 23:40:26 +0200"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/cut_diamond": {
     "criteria": {
       "has_diamond": "2022-09-23 22:43:23 +0200"
@@ -2436,6 +2549,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2022-10-06 23:06:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2022-09-23 22:40:25 +0200"
@@ -2454,6 +2573,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2022-10-06 23:40:26 +0200"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/tools/gold_ring": {
     "criteria": {
       "has_gold": "2022-09-23 23:16:42 +0200"
@@ -2465,6 +2590,12 @@
       "requirement_2": "2022-10-03 22:03:56 +0200"
     },
     "done": false
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2022-10-06 23:06:57 +0200"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
@@ -2514,6 +2645,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2022-10-06 23:01:03 +0200"
+    },
+    "done": true
+  },
   "ebwizardry:handbook/spells": {
     "criteria": {
       "criteria_0": "2022-09-23 22:40:25 +0200"
@@ -2535,6 +2672,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_at_least_9_iron_nugget": "2022-09-23 21:55:04 +0200"
+    },
+    "done": true
+  },
+  "atum:core/justlikenew": {
+    "criteria": {
+      "silver_ring": "2022-10-06 23:45:58 +0200"
     },
     "done": true
   },
@@ -2634,6 +2777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2022-10-06 23:01:03 +0200"
+    },
+    "done": true
+  },
   "disenchanter:recipes/experience_jar": {
     "criteria": {
       "has_emerald": "2022-09-23 22:39:48 +0200"
@@ -2664,9 +2813,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2022-10-06 23:40:26 +0200"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/armour/studded_armour": {
     "criteria": {
       "has_item": "2022-09-23 22:43:23 +0200"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/spider": {
+    "criteria": {
+      "crafting_table": "2022-10-06 23:01:23 +0200"
     },
     "done": true
   },
