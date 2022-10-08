@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "erebus:exploration/entomology": {
+    "criteria": {
+      "kill_black_widow": "2022-10-08 00:46:47 +0200"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/red_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2022-09-25 13:03:37 +0200"
@@ -86,6 +92,12 @@
   "spartanweaponry:throwing_knife": {
     "criteria": {
       "craft": "2022-10-07 00:12:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2022-10-08 01:28:54 +0200"
     },
     "done": true
   },
@@ -258,6 +270,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2022-10-08 00:32:10 +0200"
+    },
+    "done": true
+  },
   "midnight:recipes/from_dead_wood_log": {
     "criteria": {
       "requirement_1": "2022-09-23 22:59:21 +0200"
@@ -269,6 +287,12 @@
       "has_bow": "2022-09-23 22:34:42 +0200"
     },
     "done": true
+  },
+  "erebus:exploration/kill_all": {
+    "criteria": {
+      "kill_black_widow": "2022-10-08 00:46:47 +0200"
+    },
+    "done": false
   },
   "dungeontactics:recipes/traps/fan_block": {
     "criteria": {
@@ -354,6 +378,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2022-09-23 23:46:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2022-10-08 00:32:00 +0200"
     },
     "done": true
   },
@@ -702,20 +732,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2022-10-08 00:32:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2022-10-06 22:47:54 +0200",
       "stray": "2022-10-06 22:27:55 +0200",
       "wither_skeleton": "2022-10-02 23:07:58 +0200",
       "zombie_villager": "2022-09-25 22:15:05 +0200",
+      "magma_cube": "2022-10-08 00:41:57 +0200",
       "skeleton": "2022-09-23 00:35:32 +0200",
       "husk": "2022-09-23 21:02:52 +0200",
+      "blaze": "2022-10-08 00:46:18 +0200",
       "evoker": "2022-09-25 12:55:16 +0200",
       "zombie": "2022-09-23 00:33:54 +0200",
       "silverfish": "2022-09-23 21:04:26 +0200",
       "cave_spider": "2022-10-02 17:53:47 +0200",
       "witch": "2022-10-02 17:51:31 +0200",
       "spider": "2022-09-23 00:36:29 +0200",
+      "ghast": "2022-10-08 00:31:02 +0200",
       "creeper": "2022-09-25 12:30:17 +0200",
       "enderman": "2022-09-23 21:38:38 +0200"
     },
@@ -898,6 +937,12 @@
   "dungeontactics:recipes/misc/ration": {
     "criteria": {
       "has_item": "2022-09-23 21:02:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2022-10-08 01:29:30 +0200"
     },
     "done": true
   },
@@ -1892,6 +1937,12 @@
     },
     "done": true
   },
+  "erebus:exploration/poison_sac": {
+    "criteria": {
+      "sac_get": "2022-10-08 00:46:48 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2022-09-23 21:23:43 +0200"
@@ -2276,6 +2327,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/misc/spidereye_soup": {
+    "criteria": {
+      "has_item": "2022-10-08 02:03:42 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2022-09-23 00:06:04 +0200"
@@ -2579,6 +2636,7 @@
   "ebwizardry:all_spells": {
     "criteria": {
       "homing_spark": "2022-10-03 00:34:01 +0200",
+      "imbue_weapon": "2022-10-08 00:15:00 +0200",
       "flame_ray": "2022-10-03 00:45:19 +0200",
       "snowball": "2022-10-02 18:04:26 +0200",
       "muffle": "2022-10-03 00:54:28 +0200",
@@ -2627,6 +2685,12 @@
   "colossalchests:root": {
     "criteria": {
       "criteria_0": "2022-09-23 00:46:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-10-08 01:28:40 +0200"
     },
     "done": true
   },
@@ -2844,6 +2908,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2022-10-08 01:29:30 +0200"
+    },
+    "done": true
+  },
   "qualitytools:recipes/qualitytools/reforging_station": {
     "criteria": {
       "has_anvil": "2022-09-25 12:52:17 +0200"
@@ -2892,6 +2962,12 @@
     },
     "done": false
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2022-10-08 01:29:30 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2022-09-23 00:13:09 +0200"
@@ -2925,6 +3001,12 @@
   "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2022-09-25 13:03:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2022-10-08 01:28:54 +0200"
     },
     "done": true
   },
@@ -3057,6 +3139,12 @@
   "dungeontactics:dungeoneering/get_lootbag": {
     "criteria": {
       "quiver": "2022-09-23 00:02:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2022-10-08 01:28:54 +0200"
     },
     "done": true
   },

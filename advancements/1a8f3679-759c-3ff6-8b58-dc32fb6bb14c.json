@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2022-10-08 01:10:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2022-09-25 01:09:57 +0200"
@@ -328,6 +334,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2022-09-24 23:38:59 +0200"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_cockatrice": {
+    "criteria": {
+      "tame_rat": "2022-10-08 00:41:21 +0200"
     },
     "done": true
   },
@@ -689,6 +701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_block": {
+    "criteria": {
+      "has_brick": "2022-10-08 00:19:56 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2022-09-25 01:09:57 +0200"
@@ -710,6 +728,12 @@
   "atum:core/ruinedit": {
     "criteria": {
       "in_ruin": "2022-10-04 22:25:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2022-10-08 00:41:21 +0200"
     },
     "done": true
   },
@@ -1233,6 +1257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2022-10-08 00:19:56 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2022-09-25 15:13:54 +0200"
@@ -1575,6 +1605,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/misc/convenience/snowballs_from_snow": {
+    "criteria": {
+      "has_snowball": "2022-10-08 01:10:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2022-09-24 23:53:34 +0200"
@@ -1659,6 +1695,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2022-09-25 22:25:42 +0200"
+    },
+    "done": true
+  },
+  "mysticalworld:amethyst": {
+    "criteria": {
+      "book": "2022-10-08 00:31:13 +0200"
     },
     "done": true
   },
@@ -1928,6 +1970,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/misc/spidereye_soup": {
+    "criteria": {
+      "has_item": "2022-10-08 01:11:44 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2022-09-24 23:52:10 +0200"
@@ -2192,6 +2240,7 @@
       "muffle": "2022-10-03 22:34:18 +0200",
       "thunderbolt": "2022-10-03 22:43:26 +0200",
       "ward": "2022-10-03 22:42:21 +0200",
+      "mine": "2022-10-08 00:36:44 +0200",
       "snare": "2022-09-25 23:15:33 +0200",
       "magic_missile": "2022-09-25 23:04:57 +0200",
       "evade": "2022-10-03 22:34:00 +0200",
@@ -2295,6 +2344,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2022-09-24 23:55:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2022-10-08 01:10:17 +0200"
     },
     "done": true
   },
@@ -2651,6 +2706,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-09-25 14:28:47 +0200"
+    },
+    "done": true
+  },
+  "disenchanter:recipes/disenchantment_table": {
+    "criteria": {
+      "has_enchanting_table": "2022-10-08 00:58:29 +0200"
     },
     "done": true
   },
