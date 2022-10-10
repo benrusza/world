@@ -1,0 +1,39 @@
+{
+  "dungeontactics:dungeoneering/born_survivor": {
+    "criteria": {
+      "stab": "2022-10-10 23:10:53 +0200"
+    },
+    "done": false
+  },
+  "inventorypets:inventorypets/root": {
+    "criteria": {
+      "auto": "2022-10-10 23:10:54 +0200"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2022-10-10 23:10:54 +0200"
+    },
+    "done": true
+  },
+  "mysticalworld:root": {
+    "criteria": {
+      "auto": "2022-10-10 23:10:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "savanna": "2022-10-10 23:51:51 +0200",
+      "desert": "2022-10-10 23:10:54 +0200"
+    },
+    "done": false
+  },
+  "roots:root": {
+    "criteria": {
+      "auto": "2022-10-10 23:10:54 +0200"
+    },
+    "done": true
+  }
+}

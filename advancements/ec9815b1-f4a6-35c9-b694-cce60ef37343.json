@@ -348,6 +348,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/goblins": {
+    "criteria": {
+      "3": "2022-10-10 21:50:46 +0200"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/tools/boomglove": {
     "criteria": {
       "has_gunpowder": "2022-09-25 00:11:44 +0200"
@@ -585,9 +591,10 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2022-10-09 23:23:28 +0200"
+      "kill_lich": "2022-10-09 23:23:28 +0200",
+      "trophy_pedestal": "2022-10-10 21:49:58 +0200"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
@@ -660,6 +667,18 @@
       "has_black_wool": "2022-10-03 01:03:27 +0200"
     },
     "done": true
+  },
+  "twilightforest:alt/treasures/ironwood_tool_set": {
+    "criteria": {
+      "pickaxe": "2022-10-10 21:58:06 +0200"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/tome_of_arcana": {
+    "criteria": {
+      "criteria_0": "2022-10-10 21:53:12 +0200"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
@@ -744,6 +763,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-10-07 00:11:11 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/knightmetal_armor_set": {
+    "criteria": {
+      "ingredient": "2022-10-10 21:50:49 +0200"
     },
     "done": true
   },
@@ -1265,6 +1290,18 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/goblin_knight": {
+    "criteria": {
+      "hurt": "2022-10-10 21:54:04 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/charm_of_life": {
+    "criteria": {
+      "1": "2022-10-10 22:04:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2022-10-02 23:12:45 +0200"
@@ -1306,6 +1343,12 @@
       "has_slime_ball": "2022-09-25 00:46:30 +0200"
     },
     "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2022-10-10 21:49:58 +0200"
+    },
+    "done": false
   },
   "dungeontactics:recipes/misc/lantern_iron": {
     "criteria": {
@@ -1498,6 +1541,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/tools": {
+    "criteria": {
+      "4": "2022-10-10 21:50:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2022-10-02 23:12:45 +0200"
@@ -1513,6 +1562,12 @@
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2022-10-06 23:54:20 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/charm_of_keeping": {
+    "criteria": {
+      "1": "2022-10-10 22:12:04 +0200"
     },
     "done": true
   },
@@ -1570,6 +1625,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2022-10-10 22:21:36 +0200"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/weapons/diamond_weapons": {
     "criteria": {
       "has_item": "2022-09-25 01:13:00 +0200"
@@ -1597,6 +1658,12 @@
   "twilightforest:alt/treasures/trophies": {
     "criteria": {
       "1": "2022-10-09 23:11:07 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/foods/maze_wafer": {
+    "criteria": {
+      "food": "2022-10-10 22:11:51 +0200"
     },
     "done": true
   },
@@ -1877,6 +1944,7 @@
       "cooked_cod": "2022-10-02 23:35:52 +0200",
       "rabbit": "2022-10-03 00:03:46 +0200",
       "melon": "2022-10-02 00:54:27 +0200",
+      "pumpkin_pie": "2022-10-10 22:04:54 +0200",
       "mutton": "2022-10-03 01:04:22 +0200",
       "bread": "2022-09-25 00:31:37 +0200",
       "golden_apple": "2022-10-02 16:12:15 +0200",
@@ -1917,6 +1985,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2022-09-25 01:15:12 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/charms": {
+    "criteria": {
+      "0": "2022-10-10 22:04:37 +0200"
     },
     "done": true
   },
@@ -2278,6 +2352,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/blockchain_goblin": {
+    "criteria": {
+      "slay": "2022-10-10 21:50:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2022-09-25 01:15:12 +0200"
@@ -2453,6 +2533,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/ironwood_armor_set": {
+    "criteria": {
+      "chestplate": "2022-10-10 21:56:20 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2022-10-07 00:11:11 +0200"
@@ -2546,6 +2632,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2022-10-06 23:54:20 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/redcap_sapper": {
+    "criteria": {
+      "hurt_by_indirect": "2022-10-10 21:57:56 +0200"
     },
     "done": true
   },
@@ -2749,6 +2841,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/helmet_crab": {
+    "criteria": {
+      "slay": "2022-10-10 21:53:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2022-10-07 00:11:11 +0200"
@@ -2830,6 +2928,12 @@
   "midnight:midnight/root": {
     "criteria": {
       "enter_midnight": "2022-10-03 01:14:27 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/knightmetal_tool_set": {
+    "criteria": {
+      "ingredient": "2022-10-10 21:50:49 +0200"
     },
     "done": true
   },
@@ -2941,6 +3045,13 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/steeleaf_armor_set": {
+    "criteria": {
+      "boots": "2022-10-10 21:56:27 +0200",
+      "leggings": "2022-10-10 21:56:27 +0200"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/tools/gold_ring": {
     "criteria": {
       "has_gold": "2022-09-25 21:17:14 +0200"
@@ -2968,6 +3079,12 @@
   "ebwizardry:discover_spell": {
     "criteria": {
       "criteria_0": "2022-10-02 00:39:46 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/foods/any": {
+    "criteria": {
+      "1": "2022-10-10 22:11:51 +0200"
     },
     "done": true
   },
@@ -3031,6 +3148,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/knight_stronghold": {
+    "criteria": {
+      "discover": "2022-10-10 21:44:51 +0200"
+    },
+    "done": true
+  },
   "atum:core/justlikenew": {
     "criteria": {
       "sapphire_ring": "2022-10-07 23:39:51 +0200"
@@ -3046,6 +3169,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2022-09-25 21:09:25 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/steeleaf_tool_set": {
+    "criteria": {
+      "sword": "2022-10-10 21:56:20 +0200"
     },
     "done": true
   },
@@ -3208,6 +3337,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2022-09-25 00:09:38 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/slime_beetle": {
+    "criteria": {
+      "hurt_by_indirect": "2022-10-10 21:51:59 +0200"
     },
     "done": true
   },
