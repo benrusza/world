@@ -276,6 +276,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2022-10-12 00:05:19 +0200"
+    },
+    "done": true
+  },
   "atum:core/unundead": {
     "criteria": {
       "wraith": "2022-10-04 22:23:05 +0200",
@@ -468,6 +474,21 @@
       "has_gravel": "2022-09-25 00:02:15 +0200"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2022-10-12 00:05:19 +0200"
+    },
+    "done": true
+  },
+  "tfspellpack:all_twilight_spells": {
+    "criteria": {
+      "summon_skeleton_druid": "2022-10-12 00:23:08 +0200",
+      "twilight_orb": "2022-10-12 00:21:05 +0200",
+      "summon_goblin": "2022-10-12 00:21:53 +0200",
+      "ironwood_heart": "2022-10-12 00:27:08 +0200"
+    },
+    "done": false
   },
   "dungeontactics:dungeoneering/root": {
     "criteria": {
@@ -1010,6 +1031,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2022-10-12 00:05:19 +0200"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/foods/vension": {
     "criteria": {
       "raw": "2022-10-09 20:56:30 +0200"
@@ -1031,6 +1058,12 @@
   "ebwizardry:handbook/obelisks": {
     "criteria": {
       "criteria_0": "2022-09-23 22:29:37 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/glass_sword": {
+    "criteria": {
+      "glass_sword": "2022-10-11 22:57:54 +0200"
     },
     "done": true
   },
@@ -2004,8 +2037,13 @@
   "twilightforest:arborist": {
     "criteria": {
       "rainbow_oak_sapling": "2022-10-04 23:21:43 +0200",
+      "twilight_oak_log": "2022-10-11 23:50:28 +0200",
+      "canopy_log": "2022-10-12 00:01:11 +0200",
       "sort_sapling": "2022-10-03 21:53:50 +0200",
-      "robust_oak_sapling": "2022-10-09 21:04:36 +0200"
+      "twilight_oak_sapling": "2022-10-11 23:53:01 +0200",
+      "canopy_sapling": "2022-10-11 23:54:49 +0200",
+      "robust_oak_sapling": "2022-10-09 21:04:36 +0200",
+      "mangrove_sapling": "2022-10-11 23:54:49 +0200"
     },
     "done": false
   },
@@ -2138,6 +2176,12 @@
   "twilightforest:alt/biomes/twilight_forest": {
     "criteria": {
       "discover": "2022-10-09 20:56:10 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/zombie_scepter": {
+    "criteria": {
+      "scepter": "2022-10-11 23:38:26 +0200"
     },
     "done": true
   },
@@ -2645,15 +2689,20 @@
   "ebwizardry:all_spells": {
     "criteria": {
       "freeze": "2022-10-02 00:44:19 +0200",
+      "imbue_weapon": "2022-10-11 23:15:14 +0200",
+      "flame_ray": "2022-10-11 23:13:00 +0200",
       "snowball": "2022-09-23 22:39:53 +0200",
       "muffle": "2022-09-25 15:15:28 +0200",
+      "conjure_sword": "2022-10-11 23:13:06 +0200",
       "mine": "2022-10-06 23:32:56 +0200",
       "ignite": "2022-10-02 00:43:59 +0200",
       "snare": "2022-09-26 23:39:42 +0200",
       "magic_missile": "2022-09-26 23:39:25 +0200",
       "mark_sacrifice": "2022-10-02 15:11:57 +0200",
       "conjure_block": "2022-10-02 01:38:52 +0200",
-      "heal": "2022-10-02 15:44:06 +0200"
+      "heal": "2022-10-02 15:44:06 +0200",
+      "frost_sigil": "2022-10-11 23:10:55 +0200",
+      "replenish_hunger": "2022-10-12 00:17:23 +0200"
     },
     "done": false
   },
@@ -2898,6 +2947,12 @@
     },
     "done": true
   },
+  "qualitytools:recipes/qualitytools/reforging_station": {
+    "criteria": {
+      "has_anvil": "2022-10-11 23:33:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2022-09-23 22:40:25 +0200"
@@ -2931,6 +2986,12 @@
   "twilightforest:alt/entities/wild_boar": {
     "criteria": {
       "slay": "2022-10-09 20:59:36 +0200"
+    },
+    "done": true
+  },
+  "tfspellpack:twilight_spell": {
+    "criteria": {
+      "twilight_orb": "2022-10-12 00:21:05 +0200"
     },
     "done": true
   },
@@ -3328,6 +3389,12 @@
   "atum:core/pyramidscheme": {
     "criteria": {
       "in_pyramid": "2022-10-04 23:09:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2022-10-12 00:05:19 +0200"
     },
     "done": true
   }
