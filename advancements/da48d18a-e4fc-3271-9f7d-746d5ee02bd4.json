@@ -150,6 +150,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/pacman": {
+    "criteria": {
+      "crafting_table": "2022-10-12 17:26:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2022-09-25 00:49:45 +0200"
@@ -535,6 +541,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2022-09-23 21:57:58 +0200"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2022-10-12 16:35:35 +0200"
     },
     "done": true
   },
@@ -1085,6 +1097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2022-10-12 16:35:40 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2022-09-23 23:33:29 +0200"
@@ -1139,6 +1157,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2022-10-12 17:51:54 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2022-09-23 22:06:03 +0200"
@@ -1184,6 +1208,12 @@
   "twilightforest:alt/entities/skeleton_druid": {
     "criteria": {
       "hurt": "2022-10-09 20:59:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2022-10-12 16:59:40 +0200"
     },
     "done": true
   },
@@ -1334,6 +1364,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2022-10-12 16:59:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2022-10-06 23:40:26 +0200"
@@ -1413,8 +1449,10 @@
     "criteria": {
       "mesa_rock": "2022-09-23 23:13:26 +0200",
       "forest": "2022-09-25 00:58:53 +0200",
+      "mushroom_island_shore": "2022-10-12 16:40:41 +0200",
       "deep_ocean": "2022-09-23 23:50:24 +0200",
       "beaches": "2022-09-23 22:05:54 +0200",
+      "extreme_hills_with_trees": "2022-10-12 17:48:27 +0200",
       "desert_hills": "2022-09-23 22:15:15 +0200",
       "mesa": "2022-09-23 23:11:25 +0200",
       "forest_hills": "2022-10-02 01:17:00 +0200",
@@ -1422,7 +1460,10 @@
       "plains": "2022-09-23 23:49:43 +0200",
       "mesa_clear_rock": "2022-09-23 23:14:57 +0200",
       "savanna_rock": "2022-09-23 21:59:59 +0200",
+      "taiga": "2022-10-12 17:50:03 +0200",
+      "mushroom_island": "2022-10-12 16:42:25 +0200",
       "ocean": "2022-09-23 22:07:41 +0200",
+      "extreme_hills": "2022-10-12 17:48:09 +0200",
       "river": "2022-09-23 22:12:09 +0200",
       "desert": "2022-09-23 21:52:26 +0200"
     },
@@ -1461,6 +1502,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2022-09-23 22:43:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2022-10-12 17:51:54 +0200"
     },
     "done": true
   },
@@ -1599,6 +1646,12 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2022-10-02 20:27:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2022-10-12 16:59:47 +0200"
     },
     "done": true
   },
@@ -1774,6 +1827,12 @@
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2022-09-25 17:04:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2022-10-12 16:59:47 +0200"
     },
     "done": true
   },
@@ -2015,9 +2074,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2022-10-12 16:47:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:nether/fast_travel": {
     "criteria": {
       "travelled": "2022-10-08 02:27:07 +0200"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/convenience/clayball_from_clay": {
+    "criteria": {
+      "has_clayball": "2022-10-12 16:35:40 +0200"
     },
     "done": true
   },
@@ -2339,7 +2410,8 @@
   },
   "ebwizardry:all_artefacts": {
     "criteria": {
-      "amulet_wisdom": "2022-09-25 20:06:40 +0200"
+      "amulet_wisdom": "2022-09-25 20:06:40 +0200",
+      "charm_growth": "2022-10-12 17:28:48 +0200"
     },
     "done": false
   },
@@ -3139,6 +3211,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/craftingtable": {
+    "criteria": {
+      "crafting_table": "2022-10-12 16:39:31 +0200"
+    },
+    "done": true
+  },
   "atum:core/justlikenew": {
     "criteria": {
       "silver_ring": "2022-10-06 23:45:58 +0200"
@@ -3377,6 +3455,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2022-09-23 23:02:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2022-10-12 17:51:54 +0200"
     },
     "done": true
   },
