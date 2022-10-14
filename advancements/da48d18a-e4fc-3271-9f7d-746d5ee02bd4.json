@@ -2886,6 +2886,7 @@
   },
   "ebwizardry:all_spells": {
     "criteria": {
+      "homing_spark": "2022-10-15 00:22:58 +0200",
       "freeze": "2022-10-02 00:44:19 +0200",
       "imbue_weapon": "2022-10-11 23:15:14 +0200",
       "flame_ray": "2022-10-11 23:13:00 +0200",
@@ -3088,6 +3089,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2022-09-25 00:46:55 +0200"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/pig": {
+    "criteria": {
+      "crafting_table": "2022-10-15 00:48:03 +0200"
     },
     "done": true
   },
