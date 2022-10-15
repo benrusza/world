@@ -695,6 +695,7 @@
       "husk": "2022-09-25 15:59:59 +0200",
       "zombie": "2022-09-24 15:26:11 +0200",
       "silverfish": "2022-09-25 13:59:10 +0200",
+      "cave_spider": "2022-10-16 00:36:01 +0200",
       "witch": "2022-10-09 22:22:27 +0200",
       "spider": "2022-09-25 15:17:31 +0200",
       "creeper": "2022-09-25 14:26:15 +0200",
@@ -2545,6 +2546,12 @@
     },
     "done": true
   },
+  "ancientspellcraft:crystal_shards": {
+    "criteria": {
+      "crystal_shard_fire": "2022-10-16 00:50:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2022-09-24 15:45:34 +0200"
@@ -2682,6 +2689,12 @@
   "dungeontactics:recipes/weapons/wooden_weapons": {
     "criteria": {
       "has_item": "2022-09-24 15:45:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2022-10-16 00:37:46 +0200"
     },
     "done": true
   },
