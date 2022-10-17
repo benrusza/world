@@ -548,6 +548,12 @@
     },
     "done": true
   },
+  "thebetweenlands:fighter/fashionable_warrior": {
+    "criteria": {
+      "hurt_mob_default": "2022-10-16 17:26:02 +0200"
+    },
+    "done": true
+  },
   "atum:core/lawbringer": {
     "criteria": {
       "barbarian": "2022-10-04 22:31:09 +0200",
@@ -790,6 +796,12 @@
   "atum:core/killorbekilled": {
     "criteria": {
       "mummy": "2022-10-04 22:22:20 +0200"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/mithril_weapons": {
+    "criteria": {
+      "has_item": "2022-10-16 17:23:49 +0200"
     },
     "done": true
   },
@@ -1343,6 +1355,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2022-10-16 16:38:22 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2022-09-24 15:45:34 +0200"
@@ -1418,6 +1436,12 @@
   "dungeontactics:recipes/misc/convenience/books_from_shelves": {
     "criteria": {
       "has_book": "2022-09-25 14:09:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2022-10-16 16:34:49 +0200"
     },
     "done": true
   },
@@ -1873,6 +1897,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/armour/mithril_plate_armour": {
+    "criteria": {
+      "has_item": "2022-10-16 17:23:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-09-25 14:28:47 +0200"
@@ -2213,6 +2243,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2022-09-24 23:46:04 +0200"
+    },
+    "done": true
+  },
+  "colossalchests:base/wood": {
+    "criteria": {
+      "criteria_0": "2022-10-16 17:44:30 +0200"
     },
     "done": true
   },
@@ -2800,6 +2836,12 @@
     },
     "done": true
   },
+  "ebwizardry:special_upgrade": {
+    "criteria": {
+      "criteria_0": "2022-10-16 22:15:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2022-09-24 23:38:59 +0200"
@@ -2857,6 +2899,12 @@
   "dungeontactics:recipes/weapons/iron_weapons": {
     "criteria": {
       "has_item": "2022-09-24 23:38:59 +0200"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/tools/mithril_tools": {
+    "criteria": {
+      "has_item": "2022-10-16 17:23:49 +0200"
     },
     "done": true
   },
@@ -3028,6 +3076,12 @@
       "twilight_scepter": "2022-10-15 00:46:49 +0200"
     },
     "done": false
+  },
+  "dungeontactics:recipes/armour/mithril_armour": {
+    "criteria": {
+      "has_item": "2022-10-16 17:23:49 +0200"
+    },
+    "done": true
   },
   "minecraft:story/smelt_iron": {
     "criteria": {

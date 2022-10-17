@@ -282,6 +282,12 @@
     },
     "done": false
   },
+  "dungeontactics:recipes/traps/fan_block": {
+    "criteria": {
+      "has_item": "2022-10-16 23:12:48 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_bonemeal": "2022-10-12 00:05:19 +0200"
@@ -934,6 +940,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2022-10-16 22:05:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-09-25 00:02:15 +0200"
@@ -1130,6 +1142,12 @@
   "twilightforest:alt/treasures/glass_sword": {
     "criteria": {
       "glass_sword": "2022-10-11 22:57:54 +0200"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/traps/powered_fence": {
+    "criteria": {
+      "has_item": "2022-10-16 23:12:48 +0200"
     },
     "done": true
   },
@@ -1436,6 +1454,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2022-10-16 21:53:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2022-10-12 16:59:47 +0200"
@@ -1533,6 +1557,7 @@
       "forest_hills": "2022-10-02 01:17:00 +0200",
       "savanna": "2022-09-23 21:54:41 +0200",
       "plains": "2022-09-23 23:49:43 +0200",
+      "jungle_hills": "2022-10-16 21:59:22 +0200",
       "mesa_clear_rock": "2022-09-23 23:14:57 +0200",
       "savanna_rock": "2022-09-23 21:59:59 +0200",
       "taiga": "2022-10-12 17:50:03 +0200",
@@ -1540,7 +1565,9 @@
       "birch_forest_hills": "2022-10-12 22:53:11 +0200",
       "ocean": "2022-09-23 22:07:41 +0200",
       "extreme_hills": "2022-10-12 17:48:09 +0200",
+      "roofed_forest": "2022-10-16 23:20:08 +0200",
       "river": "2022-09-23 22:12:09 +0200",
+      "jungle": "2022-10-16 21:58:39 +0200",
       "desert": "2022-09-23 21:52:26 +0200",
       "stone_beach": "2022-10-12 22:30:32 +0200"
     },
@@ -1750,6 +1777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2022-10-16 23:19:29 +0200"
+    },
+    "done": true
+  },
   "twilightforest:alt/major_landmarks/labyrinth": {
     "criteria": {
       "discover": "2022-10-09 21:07:00 +0200"
@@ -1946,6 +1979,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2022-10-12 16:59:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2022-10-16 23:12:48 +0200"
     },
     "done": true
   },
@@ -2886,7 +2925,9 @@
   },
   "ebwizardry:all_spells": {
     "criteria": {
+      "spark_bomb": "2022-10-16 23:04:02 +0200",
       "homing_spark": "2022-10-15 00:22:58 +0200",
+      "frost_barrier": "2022-10-16 23:04:35 +0200",
       "freeze": "2022-10-02 00:44:19 +0200",
       "imbue_weapon": "2022-10-11 23:15:14 +0200",
       "flame_ray": "2022-10-11 23:13:00 +0200",
@@ -2895,6 +2936,7 @@
       "snowball": "2022-09-23 22:39:53 +0200",
       "muffle": "2022-09-25 15:15:28 +0200",
       "conjure_sword": "2022-10-11 23:13:06 +0200",
+      "static_aura": "2022-10-16 22:57:36 +0200",
       "fireball": "2022-10-13 23:07:17 +0200",
       "mine": "2022-10-06 23:32:56 +0200",
       "ignite": "2022-10-02 00:43:59 +0200",

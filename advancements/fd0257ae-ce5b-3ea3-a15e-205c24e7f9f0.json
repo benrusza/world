@@ -520,6 +520,8 @@
   "tfspellpack:all_twilight_spells": {
     "criteria": {
       "summon_skeleton_druid": "2022-10-12 00:30:35 +0200",
+      "summon_twilight_wraith": "2022-10-17 00:52:34 +0200",
+      "summon_slime_beetle": "2022-10-17 00:52:30 +0200",
       "twilight_orb": "2022-10-12 00:24:01 +0200",
       "summon_goblin": "2022-10-12 00:31:16 +0200",
       "ironwood_heart": "2022-10-10 22:48:38 +0200"
@@ -784,9 +786,10 @@
   },
   "ebwizardry:handbook/tome_of_arcana": {
     "criteria": {
+      "criteria_1": "2022-10-16 23:36:12 +0200",
       "criteria_0": "2022-10-02 20:58:06 +0200"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
@@ -1168,6 +1171,12 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2022-10-02 15:56:45 +0200"
+    },
+    "done": true
+  },
+  "ebwizardry:advanced": {
+    "criteria": {
+      "earth": "2022-10-17 00:47:34 +0200"
     },
     "done": true
   },
@@ -3020,33 +3029,58 @@
   },
   "ebwizardry:all_spells": {
     "criteria": {
+      "satiety": "2022-10-17 00:50:00 +0200",
+      "divination": "2022-10-16 23:35:06 +0200",
+      "spark_bomb": "2022-10-16 23:12:17 +0200",
+      "frost_ray": "2022-10-17 00:46:40 +0200",
       "homing_spark": "2022-10-03 00:34:01 +0200",
+      "frost_barrier": "2022-10-16 23:11:47 +0200",
       "freeze": "2022-10-12 00:29:37 +0200",
       "imbue_weapon": "2022-10-08 00:15:00 +0200",
       "flame_ray": "2022-10-03 00:45:19 +0200",
       "sixth_sense": "2022-10-13 22:54:37 +0200",
+      "spider_swarm": "2022-10-17 00:57:30 +0200",
       "pocket_furnace": "2022-10-13 22:53:51 +0200",
+      "paralysis": "2022-10-17 00:57:49 +0200",
+      "ice_lance": "2022-10-17 00:48:35 +0200",
+      "light": "2022-10-16 23:07:24 +0200",
+      "transience": "2022-10-17 00:51:54 +0200",
       "snowball": "2022-10-02 18:04:26 +0200",
+      "lightning_disc": "2022-10-17 00:50:29 +0200",
       "muffle": "2022-10-03 00:54:28 +0200",
       "summon_zombie": "2022-10-12 00:29:23 +0200",
       "ward": "2022-10-03 00:35:19 +0200",
+      "summon_spirit_horse": "2022-10-17 00:57:01 +0200",
+      "dart": "2022-10-16 23:07:33 +0200",
+      "invoke_weather": "2022-10-17 00:53:01 +0200",
       "conjure_sword": "2022-10-12 00:27:44 +0200",
       "fireball": "2022-10-13 23:25:42 +0200",
       "mine": "2022-10-12 00:25:11 +0200",
+      "charge": "2022-10-17 00:43:58 +0200",
       "poison_bomb": "2022-10-13 23:56:52 +0200",
+      "summon_snow_golem": "2022-10-17 00:44:27 +0200",
+      "summon_ice_wraith": "2022-10-17 01:02:10 +0200",
+      "reversal": "2022-10-17 00:44:35 +0200",
+      "summon_lightning_wraith": "2022-10-17 00:58:55 +0200",
       "ignite": "2022-10-12 00:29:41 +0200",
       "snare": "2022-10-03 01:10:15 +0200",
       "magic_missile": "2022-09-25 23:13:12 +0200",
       "evade": "2022-10-03 00:55:04 +0200",
+      "ice_shroud": "2022-10-17 00:48:21 +0200",
+      "summon_spirit_wolf": "2022-10-16 23:15:19 +0200",
       "mind_trick": "2022-10-03 01:09:30 +0200",
       "smoke_bomb": "2022-09-25 23:12:52 +0200",
       "ice_statue": "2022-10-13 23:56:58 +0200",
       "ice_shard": "2022-10-13 22:53:18 +0200",
       "conjure_block": "2022-10-03 00:56:36 +0200",
+      "shulker_bullet": "2022-10-17 01:04:44 +0200",
       "summon_skeleton": "2022-10-13 22:53:25 +0200",
       "cure_effects": "2022-10-13 23:25:32 +0200",
+      "banish": "2022-10-16 23:36:26 +0200",
       "telekinesis": "2022-10-03 01:11:20 +0200",
+      "blink": "2022-10-16 23:36:12 +0200",
       "heal": "2022-10-12 00:29:50 +0200",
+      "decoy": "2022-10-17 00:52:16 +0200",
       "frost_sigil": "2022-10-12 00:22:19 +0200",
       "replenish_hunger": "2022-10-12 00:23:38 +0200"
     },
