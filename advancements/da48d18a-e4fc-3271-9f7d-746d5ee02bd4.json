@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2022-10-19 22:55:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_red_flower": "2022-09-24 15:42:51 +0200"
@@ -508,6 +514,8 @@
   "tfspellpack:all_twilight_spells": {
     "criteria": {
       "summon_skeleton_druid": "2022-10-12 00:23:08 +0200",
+      "summon_twilight_wraith": "2022-10-19 23:06:36 +0200",
+      "summon_slime_beetle": "2022-10-19 23:06:07 +0200",
       "twilight_orb": "2022-10-12 00:21:05 +0200",
       "summon_goblin": "2022-10-12 00:21:53 +0200",
       "ironwood_heart": "2022-10-12 00:27:08 +0200"
@@ -747,9 +755,10 @@
   },
   "ebwizardry:handbook/tome_of_arcana": {
     "criteria": {
+      "criteria_1": "2022-10-19 23:02:27 +0200",
       "criteria_0": "2022-09-23 22:51:36 +0200"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
@@ -964,6 +973,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2022-10-19 23:13:00 +0200"
+    },
+    "done": true
+  },
   "uniquecrops:main/seed_pickup": {
     "criteria": {
       "seed": "2022-09-25 14:33:40 +0200"
@@ -1124,6 +1139,12 @@
   "inventorypets:inventorypets/enderman": {
     "criteria": {
       "crafting_table": "2022-10-13 23:34:28 +0200"
+    },
+    "done": true
+  },
+  "ebwizardry:advanced": {
+    "criteria": {
+      "fire": "2022-10-19 23:04:26 +0200"
     },
     "done": true
   },
@@ -2144,6 +2165,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/misc/convenience/snowballs_from_snow": {
+    "criteria": {
+      "has_snowball": "2022-10-19 22:55:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2022-09-23 22:57:36 +0200"
@@ -2925,29 +2952,52 @@
   },
   "ebwizardry:all_spells": {
     "criteria": {
+      "satiety": "2022-10-19 23:09:23 +0200",
       "spark_bomb": "2022-10-16 23:04:02 +0200",
+      "divination": "2022-10-19 22:58:00 +0200",
+      "frost_ray": "2022-10-19 22:54:07 +0200",
       "homing_spark": "2022-10-15 00:22:58 +0200",
       "frost_barrier": "2022-10-16 23:04:35 +0200",
       "freeze": "2022-10-02 00:44:19 +0200",
       "imbue_weapon": "2022-10-11 23:15:14 +0200",
       "flame_ray": "2022-10-11 23:13:00 +0200",
       "sixth_sense": "2022-10-13 22:48:47 +0200",
+      "spider_swarm": "2022-10-19 23:19:23 +0200",
       "pocket_furnace": "2022-10-13 22:56:25 +0200",
+      "paralysis": "2022-10-19 23:11:05 +0200",
+      "ice_lance": "2022-10-19 23:10:31 +0200",
+      "transience": "2022-10-19 23:20:35 +0200",
       "snowball": "2022-09-23 22:39:53 +0200",
+      "lightning_disc": "2022-10-19 23:09:58 +0200",
       "muffle": "2022-09-25 15:15:28 +0200",
+      "summon_spirit_horse": "2022-10-19 23:13:00 +0200",
+      "invoke_weather": "2022-10-19 23:21:23 +0200",
       "conjure_sword": "2022-10-11 23:13:06 +0200",
       "static_aura": "2022-10-16 22:57:36 +0200",
       "fireball": "2022-10-13 23:07:17 +0200",
       "mine": "2022-10-06 23:32:56 +0200",
+      "charge": "2022-10-19 22:53:42 +0200",
+      "poison_bomb": "2022-10-19 22:53:27 +0200",
+      "summon_snow_golem": "2022-10-19 22:54:15 +0200",
+      "summon_ice_wraith": "2022-10-19 23:10:47 +0200",
+      "reversal": "2022-10-19 22:53:57 +0200",
+      "summon_lightning_wraith": "2022-10-19 23:13:52 +0200",
       "ignite": "2022-10-02 00:43:59 +0200",
       "snare": "2022-09-26 23:39:42 +0200",
       "magic_missile": "2022-09-26 23:39:25 +0200",
+      "ice_shroud": "2022-10-19 23:20:02 +0200",
+      "summon_spirit_wolf": "2022-10-19 22:52:48 +0200",
       "mark_sacrifice": "2022-10-02 15:11:57 +0200",
+      "ice_statue": "2022-10-19 22:52:27 +0200",
       "ice_shard": "2022-10-13 22:48:05 +0200",
       "conjure_block": "2022-10-02 01:38:52 +0200",
+      "shulker_bullet": "2022-10-19 23:26:05 +0200",
       "summon_skeleton": "2022-10-13 22:49:26 +0200",
       "cure_effects": "2022-10-13 23:06:54 +0200",
+      "banish": "2022-10-19 22:57:47 +0200",
+      "blink": "2022-10-19 22:53:08 +0200",
       "heal": "2022-10-02 15:44:06 +0200",
+      "decoy": "2022-10-19 23:21:48 +0200",
       "frost_sigil": "2022-10-11 23:10:55 +0200",
       "replenish_hunger": "2022-10-12 00:17:23 +0200"
     },
@@ -3055,6 +3105,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2022-09-23 23:16:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2022-10-19 22:55:46 +0200"
     },
     "done": true
   },

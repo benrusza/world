@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2022-10-19 23:00:55 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2022-09-23 00:41:40 +0200"
@@ -1495,6 +1501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2022-10-19 22:41:09 +0200"
+    },
+    "done": true
+  },
   "twilightforest:alt/major_landmarks/hollow_hills": {
     "criteria": {
       "2": "2022-10-09 18:59:28 +0200"
@@ -1810,6 +1822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2022-10-19 22:41:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2022-09-23 00:55:15 +0200"
@@ -2015,6 +2033,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2022-10-19 22:41:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2022-09-23 21:34:28 +0200"
@@ -2183,6 +2207,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/misc/convenience/snowballs_from_snow": {
+    "criteria": {
+      "has_snowball": "2022-10-19 23:00:55 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2022-09-23 22:12:00 +0200"
@@ -2306,13 +2336,15 @@
     "criteria": {
       "twilight_oak_planks": "2022-10-09 23:17:55 +0200",
       "twilight_oak_log": "2022-10-09 18:54:30 +0200",
+      "mangrove_planks": "2022-10-19 23:37:37 +0200",
       "dark_log": "2022-10-10 21:06:16 +0200",
       "canopy_log": "2022-10-11 23:57:59 +0200",
       "sort_sapling": "2022-10-03 22:52:33 +0200",
       "twilight_oak_sapling": "2022-10-09 18:55:21 +0200",
       "canopy_sapling": "2022-10-12 00:02:58 +0200",
       "mangrove_sapling": "2022-10-12 00:02:21 +0200",
-      "dark_planks": "2022-10-10 21:07:48 +0200"
+      "dark_planks": "2022-10-10 21:07:48 +0200",
+      "mangrove_log": "2022-10-19 23:37:35 +0200"
     },
     "done": false
   },
@@ -3223,6 +3255,12 @@
   "ancientspellcraft:crystal_shards": {
     "criteria": {
       "crystal_shard_fire": "2022-09-25 16:31:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2022-10-19 23:00:55 +0200"
     },
     "done": true
   },

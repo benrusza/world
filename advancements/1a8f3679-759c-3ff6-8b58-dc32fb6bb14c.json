@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2022-10-19 23:25:43 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-09-25 14:28:47 +0200"
@@ -1863,6 +1869,7 @@
     "criteria": {
       "cooked_porkchop": "2022-09-24 16:07:42 +0200",
       "cooked_mutton": "2022-09-25 14:00:49 +0200",
+      "cooked_beef": "2022-10-19 22:43:35 +0200",
       "baked_potato": "2022-09-25 01:04:36 +0200",
       "beetroot_soup": "2022-10-09 20:04:57 +0200",
       "apple": "2022-09-25 00:23:39 +0200",
@@ -2363,6 +2370,12 @@
   "midnight:midnight/inebriated": {
     "criteria": {
       "gathered_suavis": "2022-10-03 22:54:37 +0200"
+    },
+    "done": true
+  },
+  "midnight:recipes/from_shadowroot_log": {
+    "criteria": {
+      "requirement_1": "2022-10-19 23:15:48 +0200"
     },
     "done": true
   },
