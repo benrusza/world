@@ -1886,6 +1886,12 @@
     },
     "done": false
   },
+  "twilightforest:alt/biomes/general_biomes": {
+    "criteria": {
+      "0": "2022-10-22 00:16:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2022-09-24 15:45:03 +0200"
@@ -1929,6 +1935,7 @@
       "twilight_oak_planks": "2022-10-14 23:36:07 +0200",
       "twilight_oak_log": "2022-10-14 23:35:59 +0200",
       "mine_sapling": "2022-10-02 22:44:38 +0200",
+      "canopy_log": "2022-10-22 01:01:28 +0200",
       "twilight_oak_sapling": "2022-10-14 23:36:25 +0200"
     },
     "done": false
@@ -2038,6 +2045,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2022-09-25 01:09:57 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/twilight_forest": {
+    "criteria": {
+      "discover": "2022-10-22 00:16:05 +0200"
     },
     "done": true
   },
@@ -2334,6 +2347,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2022-10-04 22:46:29 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2022-10-22 00:16:05 +0200"
     },
     "done": true
   },
