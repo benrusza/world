@@ -397,6 +397,12 @@
     },
     "done": true
   },
+  "ebwizardry:apprentice": {
+    "criteria": {
+      "magic": "2022-10-23 00:44:38 +0200"
+    },
+    "done": true
+  },
   "thebetweenlands:adventurer/root": {
     "criteria": {
       "talisman": "2022-10-15 00:46:04 +0200"
@@ -432,6 +438,13 @@
       "has_bonemeal": "2022-09-24 16:00:44 +0200"
     },
     "done": true
+  },
+  "tfspellpack:all_twilight_spells": {
+    "criteria": {
+      "twilight_orb": "2022-10-23 00:45:41 +0200",
+      "summon_goblin": "2022-10-23 01:01:25 +0200"
+    },
+    "done": false
   },
   "dungeontactics:dungeoneering/root": {
     "criteria": {
@@ -672,9 +685,10 @@
   },
   "ebwizardry:handbook/tome_of_arcana": {
     "criteria": {
+      "criteria_1": "2022-10-23 00:44:19 +0200",
       "criteria_0": "2022-09-25 15:44:33 +0200"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
@@ -1279,6 +1293,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2022-09-24 23:52:55 +0200"
+    },
+    "done": true
+  },
+  "vt:pad": {
+    "criteria": {
+      "pad_in_inventory": "2022-10-23 00:29:54 +0200"
     },
     "done": true
   },
@@ -2520,7 +2540,14 @@
   },
   "ebwizardry:all_spells": {
     "criteria": {
+      "spark_bomb": "2022-10-23 00:48:29 +0200",
+      "frost_ray": "2022-10-23 01:04:51 +0200",
+      "frost_barrier": "2022-10-23 00:48:23 +0200",
       "freeze": "2022-10-15 00:37:40 +0200",
+      "imbue_weapon": "2022-10-23 00:58:23 +0200",
+      "flame_ray": "2022-10-23 01:01:33 +0200",
+      "sixth_sense": "2022-10-23 00:45:23 +0200",
+      "pocket_furnace": "2022-10-23 01:01:21 +0200",
       "fire_resistance": "2022-10-02 23:35:01 +0200",
       "light": "2022-10-15 00:37:50 +0200",
       "snowball": "2022-10-15 00:34:43 +0200",
@@ -2529,16 +2556,28 @@
       "summon_zombie": "2022-10-15 00:34:51 +0200",
       "ward": "2022-10-03 22:42:21 +0200",
       "dart": "2022-10-15 00:37:44 +0200",
+      "fireball": "2022-10-23 00:47:10 +0200",
       "mine": "2022-10-08 00:36:44 +0200",
+      "charge": "2022-10-23 00:47:50 +0200",
+      "poison_bomb": "2022-10-23 00:48:18 +0200",
+      "summon_snow_golem": "2022-10-23 00:47:07 +0200",
+      "reversal": "2022-10-23 00:47:04 +0200",
       "ignite": "2022-10-15 00:34:47 +0200",
       "snare": "2022-09-25 23:15:33 +0200",
       "magic_missile": "2022-09-25 23:04:57 +0200",
       "evade": "2022-10-03 22:34:00 +0200",
+      "summon_spirit_wolf": "2022-10-23 00:45:39 +0200",
       "mind_trick": "2022-10-03 22:43:15 +0200",
       "smoke_bomb": "2022-10-03 22:33:37 +0200",
+      "ice_statue": "2022-10-23 00:45:16 +0200",
       "conjure_block": "2022-10-03 22:38:52 +0200",
+      "summon_skeleton": "2022-10-23 00:45:31 +0200",
+      "cure_effects": "2022-10-23 01:01:57 +0200",
       "telekinesis": "2022-09-25 23:16:01 +0200",
-      "heal": "2022-10-15 00:34:38 +0200"
+      "blink": "2022-10-23 01:05:27 +0200",
+      "heal": "2022-10-15 00:34:38 +0200",
+      "frost_sigil": "2022-10-23 00:47:01 +0200",
+      "replenish_hunger": "2022-10-23 01:05:16 +0200"
     },
     "done": false
   },
@@ -2841,6 +2880,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2022-09-24 23:55:24 +0200"
+    },
+    "done": true
+  },
+  "tfspellpack:twilight_spell": {
+    "criteria": {
+      "twilight_orb": "2022-10-23 00:45:41 +0200"
     },
     "done": true
   },
